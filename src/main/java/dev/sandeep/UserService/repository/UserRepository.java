@@ -1,6 +1,6 @@
 package dev.sandeep.UserService.repository;
 
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

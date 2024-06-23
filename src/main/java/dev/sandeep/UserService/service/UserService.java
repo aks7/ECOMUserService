@@ -2,7 +2,7 @@ package dev.sandeep.UserService.service;
 
 import dev.sandeep.UserService.dto.UserDto;
 import dev.sandeep.UserService.model.Role;
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 import dev.sandeep.UserService.repository.RoleRepository;
 import dev.sandeep.UserService.repository.UserRepository;
 import org.springframework.stereotype.Service;

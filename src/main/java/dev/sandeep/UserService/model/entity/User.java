@@ -1,5 +1,7 @@
-package dev.sandeep.UserService.model;
+package dev.sandeep.UserService.model.entity;
 
+import dev.sandeep.UserService.model.BaseModel;
+import dev.sandeep.UserService.model.Role;
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToMany;
 import lombok.Getter;

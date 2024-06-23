@@ -1,7 +1,7 @@
 package dev.sandeep.UserService.dto;
 
 import dev.sandeep.UserService.model.Role;
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 import lombok.Getter;
 import lombok.Setter;
 

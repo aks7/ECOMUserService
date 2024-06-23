@@ -1,7 +1,7 @@
 package dev.sandeep.UserService.mapper;
 
 import dev.sandeep.UserService.dto.UserDto;
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 
 public class UserEntityDTOMapper {
     public static UserDto getUserDTOFromUserEntity(User user){

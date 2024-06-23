@@ -7,7 +7,7 @@ import dev.sandeep.UserService.exception.UserNotFoundException;
 import dev.sandeep.UserService.mapper.UserEntityDTOMapper;
 import dev.sandeep.UserService.model.Session;
 import dev.sandeep.UserService.model.SessionStatus;
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 import dev.sandeep.UserService.repository.SessionRepository;
 import dev.sandeep.UserService.repository.UserRepository;
 import io.jsonwebtoken.Jwts;

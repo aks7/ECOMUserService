@@ -3,7 +3,7 @@ package dev.sandeep.UserService.controller;
 import dev.sandeep.UserService.dto.*;
 import dev.sandeep.UserService.model.Session;
 import dev.sandeep.UserService.model.SessionStatus;
-import dev.sandeep.UserService.model.User;
+import dev.sandeep.UserService.model.entity.User;
 import dev.sandeep.UserService.service.AuthService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
